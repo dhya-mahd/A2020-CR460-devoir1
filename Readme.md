@@ -8,6 +8,7 @@ Vous fournirez des captures d'écran du résultat: output terraform + site web a
 Vous sauvegarderez vos modifications (commit) et publierez le code sur votre propre version du repo.
 Votre code devra être accessible de manière privée, ajoutez Riad (RiadMan), Steve (cyborgqc) et Moi seulement.
 
+dhya mahdjoub
 
 ### L'infrastructure à déployer
 
